@@ -1,0 +1,21 @@
+Add Component: Footprint Not Found TC2050-IDC_Lumen
+Added Component: Designator=U1(SON127P600X500X100-9N-D)
+Add component (AddParameter): Name = "JLC Footprint"; Value = "Not available with JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "Not available with JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Name"; Value = "Arkessa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part Number"; Value = "Arkessa LP MFF2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=USIM_DATA Pin=U1-3
+Added Pin To Net: NetName=USIM_CLK Pin=U1-6
+Added Pin To Net: NetName=USIM_RST Pin=U1-7
+Added Pin To Net: NetName=NetC9_2 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9

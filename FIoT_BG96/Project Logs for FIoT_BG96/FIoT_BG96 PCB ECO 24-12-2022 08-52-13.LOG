@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=NetIC1_20 Pin=Q7-1
+Removed Pin From Net: NetName=NetIC1_21 Pin=Q8-1
+Removed Pin From Net: NetName=NetQ7_3 Pin=R13-2
+Removed Pin From Net: NetName=NetQ8_3 Pin=R14-2
+Change Component Footprint: Designator=Q7 Old Footprint=FP-318-08-IPC_B New Footprint=FP-318-08-IPC_B
+Change Component Footprint: Designator=Q8 Old Footprint=FP-318-08-IPC_B New Footprint=FP-318-08-IPC_B
+Change Component Comment : Designator=Q7 Old Comment=BSS138 New Comment=BSS138K
+Change Component Comment : Designator=Q8 Old Comment=BSS138 New Comment=BSS138K
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "FP-318-08-IPC_B"; UniqueID = "\GNLJRGJD" ("\GNLJRGJD")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "220mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "220mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Resistance"; Value = "3.5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dual Supply Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fall Time"; Value = "9ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.93mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "27pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C52895"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = "1.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-State Resistance"; Value = "6R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rise Time"; Value = "9ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138K-13DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "3943470"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "621-BSS138K-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "1.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "2.5ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.03g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "FP-318-08-IPC_B"; UniqueID = "\KCJWLUBC" ("\KCJWLUBC")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "220mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "220mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Resistance"; Value = "3.5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dual Supply Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fall Time"; Value = "9ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.93mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "27pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C52895"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "BSS138"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Vgs"; Value = "1.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-State Resistance"; Value = "6R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rise Time"; Value = "9ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138K-13DICT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "3943470"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "621-BSS138K-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Threshold Voltage"; Value = "1.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-Off Delay Time"; Value = "20ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Turn-On Delay Time"; Value = "2.5ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.03g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TC2050-IDC_Lumen
+Add Component: Footprint Not Found SON127P600X500X100-9N-D
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Net: Name=NetQ8_1

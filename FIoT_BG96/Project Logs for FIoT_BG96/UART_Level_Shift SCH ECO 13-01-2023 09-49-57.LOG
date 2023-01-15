@@ -1,0 +1,606 @@
+Removed Parameter Case Code (Imperial):0402 from Part R1
+Removed Parameter Case Code (Imperial):0402 from Part R2
+Removed Parameter Case Code (Imperial):0402 from Part R3
+Removed Parameter Case Code (Imperial):0402 from Part R4
+Removed Parameter Case Code (Imperial):0402 from Part R5
+Removed Parameter Case Code (Imperial):0402 from Part R6
+Removed Parameter Case Code (Imperial):0402 from Part R7
+Removed Parameter Case Code (Imperial):0402 from Part R8
+Removed Parameter Case Code (Imperial):0402 from Part R9
+Removed Parameter Case Code (Imperial):0402 from Part R10
+Removed Parameter Case Code (Imperial):0402 from Part R11
+Removed Parameter Case Code (Imperial):0402 from Part R12
+Removed Parameter Case Code (Metric):1005 from Part R1
+Removed Parameter Case Code (Metric):1005 from Part R2
+Removed Parameter Case Code (Metric):1005 from Part R3
+Removed Parameter Case Code (Metric):1005 from Part R4
+Removed Parameter Case Code (Metric):1005 from Part R5
+Removed Parameter Case Code (Metric):1005 from Part R6
+Removed Parameter Case Code (Metric):1005 from Part R7
+Removed Parameter Case Code (Metric):1005 from Part R8
+Removed Parameter Case Code (Metric):1005 from Part R9
+Removed Parameter Case Code (Metric):1005 from Part R10
+Removed Parameter Case Code (Metric):1005 from Part R11
+Removed Parameter Case Code (Metric):1005 from Part R12
+Removed Parameter Composition:Thick Film from Part R1
+Removed Parameter Composition:Thick Film from Part R2
+Removed Parameter Composition:Thick Film from Part R3
+Removed Parameter Composition:Thick Film from Part R4
+Removed Parameter Composition:Thick Film from Part R5
+Removed Parameter Composition:Thick Film from Part R6
+Removed Parameter Composition:Thick Film from Part R7
+Removed Parameter Composition:Thick Film from Part R8
+Removed Parameter Composition:Thick Film from Part R9
+Removed Parameter Composition:Thick Film from Part R10
+Removed Parameter Composition:Thick Film from Part R11
+Removed Parameter Composition:Thick Film from Part R12
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q1
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q2
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q3
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q4
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q5
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q6
+Removed Parameter Current Rating:220mA from Part Q1
+Removed Parameter Current Rating:220mA from Part Q2
+Removed Parameter Current Rating:220mA from Part Q3
+Removed Parameter Current Rating:220mA from Part Q4
+Removed Parameter Current Rating:220mA from Part Q5
+Removed Parameter Current Rating:220mA from Part Q6
+Removed Parameter Depth:0.5mm from Part R1
+Removed Parameter Depth:0.5mm from Part R2
+Removed Parameter Depth:0.5mm from Part R3
+Removed Parameter Depth:0.5mm from Part R4
+Removed Parameter Depth:0.5mm from Part R5
+Removed Parameter Depth:0.5mm from Part R6
+Removed Parameter Depth:0.5mm from Part R7
+Removed Parameter Depth:0.5mm from Part R8
+Removed Parameter Depth:0.5mm from Part R9
+Removed Parameter Depth:0.5mm from Part R10
+Removed Parameter Depth:0.5mm from Part R11
+Removed Parameter Depth:0.5mm from Part R12
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q1
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q2
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q3
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q4
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q5
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q6
+Removed Parameter Drain to Source Resistance:3.5R from Part Q1
+Removed Parameter Drain to Source Resistance:3.5R from Part Q2
+Removed Parameter Drain to Source Resistance:3.5R from Part Q3
+Removed Parameter Drain to Source Resistance:3.5R from Part Q4
+Removed Parameter Drain to Source Resistance:3.5R from Part Q5
+Removed Parameter Drain to Source Resistance:3.5R from Part Q6
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q1
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q2
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q3
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q4
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q5
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q6
+Removed Parameter Dual Supply Voltage:50V from Part Q1
+Removed Parameter Dual Supply Voltage:50V from Part Q2
+Removed Parameter Dual Supply Voltage:50V from Part Q3
+Removed Parameter Dual Supply Voltage:50V from Part Q4
+Removed Parameter Dual Supply Voltage:50V from Part Q5
+Removed Parameter Dual Supply Voltage:50V from Part Q6
+Removed Parameter Element Configuration:Single from Part Q1
+Removed Parameter Element Configuration:Single from Part Q2
+Removed Parameter Element Configuration:Single from Part Q3
+Removed Parameter Element Configuration:Single from Part Q4
+Removed Parameter Element Configuration:Single from Part Q5
+Removed Parameter Element Configuration:Single from Part Q6
+Removed Parameter Fall Time:9ns from Part Q1
+Removed Parameter Fall Time:9ns from Part Q2
+Removed Parameter Fall Time:9ns from Part Q3
+Removed Parameter Fall Time:9ns from Part Q4
+Removed Parameter Fall Time:9ns from Part Q5
+Removed Parameter Fall Time:9ns from Part Q6
+Removed Parameter Features:Automotive AEC-Q200 from Part R1
+Removed Parameter Features:Automotive AEC-Q200 from Part R2
+Removed Parameter Features:Automotive AEC-Q200 from Part R3
+Removed Parameter Features:Automotive AEC-Q200 from Part R4
+Removed Parameter Features:Automotive AEC-Q200 from Part R5
+Removed Parameter Features:Automotive AEC-Q200 from Part R6
+Removed Parameter Features:Automotive AEC-Q200 from Part R7
+Removed Parameter Features:Automotive AEC-Q200 from Part R8
+Removed Parameter Features:Automotive AEC-Q200 from Part R9
+Removed Parameter Features:Automotive AEC-Q200 from Part R10
+Removed Parameter Features:Automotive AEC-Q200 from Part R11
+Removed Parameter Features:Automotive AEC-Q200 from Part R12
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q1
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q2
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q3
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q4
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q5
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q6
+Removed Parameter Height:0.35mm from Part R1
+Removed Parameter Height:0.35mm from Part R2
+Removed Parameter Height:0.35mm from Part R3
+Removed Parameter Height:0.35mm from Part R4
+Removed Parameter Height:0.35mm from Part R5
+Removed Parameter Height:0.35mm from Part R6
+Removed Parameter Height:0.35mm from Part R7
+Removed Parameter Height:0.35mm from Part R8
+Removed Parameter Height:0.35mm from Part R9
+Removed Parameter Height:0.35mm from Part R10
+Removed Parameter Height:0.35mm from Part R11
+Removed Parameter Height:0.35mm from Part R12
+Removed Parameter Height:0.93mm from Part Q1
+Removed Parameter Height:0.93mm from Part Q2
+Removed Parameter Height:0.93mm from Part Q3
+Removed Parameter Height:0.93mm from Part Q4
+Removed Parameter Height:0.93mm from Part Q5
+Removed Parameter Height:0.93mm from Part Q6
+Removed Parameter Input Capacitance:27pF from Part Q1
+Removed Parameter Input Capacitance:27pF from Part Q2
+Removed Parameter Input Capacitance:27pF from Part Q3
+Removed Parameter Input Capacitance:27pF from Part Q4
+Removed Parameter Input Capacitance:27pF from Part Q5
+Removed Parameter Input Capacitance:27pF from Part Q6
+Removed Parameter Lead Free:Lead Free from Part Q1
+Removed Parameter Lead Free:Lead Free from Part Q2
+Removed Parameter Lead Free:Lead Free from Part Q3
+Removed Parameter Lead Free:Lead Free from Part Q4
+Removed Parameter Lead Free:Lead Free from Part Q5
+Removed Parameter Lead Free:Lead Free from Part Q6
+Removed Parameter Lead Free:Lead Free from Part R1
+Removed Parameter Lead Free:Lead Free from Part R2
+Removed Parameter Lead Free:Lead Free from Part R3
+Removed Parameter Lead Free:Lead Free from Part R4
+Removed Parameter Lead Free:Lead Free from Part R5
+Removed Parameter Lead Free:Lead Free from Part R6
+Removed Parameter Lead Free:Lead Free from Part R7
+Removed Parameter Lead Free:Lead Free from Part R8
+Removed Parameter Lead Free:Lead Free from Part R9
+Removed Parameter Lead Free:Lead Free from Part R10
+Removed Parameter Lead Free:Lead Free from Part R11
+Removed Parameter Lead Free:Lead Free from Part R12
+Removed Parameter Length:1mm from Part R1
+Removed Parameter Length:1mm from Part R2
+Removed Parameter Length:1mm from Part R3
+Removed Parameter Length:1mm from Part R4
+Removed Parameter Length:1mm from Part R5
+Removed Parameter Length:1mm from Part R6
+Removed Parameter Length:1mm from Part R7
+Removed Parameter Length:1mm from Part R8
+Removed Parameter Length:1mm from Part R9
+Removed Parameter Length:1mm from Part R10
+Removed Parameter Length:1mm from Part R11
+Removed Parameter Length:1mm from Part R12
+Removed Parameter Length:2.92mm from Part Q1
+Removed Parameter Length:2.92mm from Part Q2
+Removed Parameter Length:2.92mm from Part Q3
+Removed Parameter Length:2.92mm from Part Q4
+Removed Parameter Length:2.92mm from Part Q5
+Removed Parameter Length:2.92mm from Part Q6
+Removed Parameter Max Operating Temperature:150°C from Part Q1
+Removed Parameter Max Operating Temperature:150°C from Part Q2
+Removed Parameter Max Operating Temperature:150°C from Part Q3
+Removed Parameter Max Operating Temperature:150°C from Part Q4
+Removed Parameter Max Operating Temperature:150°C from Part Q5
+Removed Parameter Max Operating Temperature:150°C from Part Q6
+Removed Parameter Max Operating Temperature:155°C from Part R1
+Removed Parameter Max Operating Temperature:155°C from Part R2
+Removed Parameter Max Operating Temperature:155°C from Part R3
+Removed Parameter Max Operating Temperature:155°C from Part R4
+Removed Parameter Max Operating Temperature:155°C from Part R5
+Removed Parameter Max Operating Temperature:155°C from Part R6
+Removed Parameter Max Operating Temperature:155°C from Part R7
+Removed Parameter Max Operating Temperature:155°C from Part R8
+Removed Parameter Max Operating Temperature:155°C from Part R9
+Removed Parameter Max Operating Temperature:155°C from Part R10
+Removed Parameter Max Operating Temperature:155°C from Part R11
+Removed Parameter Max Operating Temperature:155°C from Part R12
+Removed Parameter Max Power Dissipation:63mW from Part R1
+Removed Parameter Max Power Dissipation:63mW from Part R2
+Removed Parameter Max Power Dissipation:63mW from Part R3
+Removed Parameter Max Power Dissipation:63mW from Part R4
+Removed Parameter Max Power Dissipation:63mW from Part R5
+Removed Parameter Max Power Dissipation:63mW from Part R6
+Removed Parameter Max Power Dissipation:63mW from Part R7
+Removed Parameter Max Power Dissipation:63mW from Part R8
+Removed Parameter Max Power Dissipation:63mW from Part R9
+Removed Parameter Max Power Dissipation:63mW from Part R10
+Removed Parameter Max Power Dissipation:63mW from Part R11
+Removed Parameter Max Power Dissipation:63mW from Part R12
+Removed Parameter Max Power Dissipation:360mW from Part Q1
+Removed Parameter Max Power Dissipation:360mW from Part Q2
+Removed Parameter Max Power Dissipation:360mW from Part Q3
+Removed Parameter Max Power Dissipation:360mW from Part Q4
+Removed Parameter Max Power Dissipation:360mW from Part Q5
+Removed Parameter Max Power Dissipation:360mW from Part Q6
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q1
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q2
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q3
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q4
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q5
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q6
+Removed Parameter MFG Name:Vishay Dale from Part R1
+Removed Parameter MFG Name:Vishay Dale from Part R2
+Removed Parameter MFG Name:Vishay Dale from Part R3
+Removed Parameter MFG Name:Vishay Dale from Part R4
+Removed Parameter MFG Name:Vishay Dale from Part R5
+Removed Parameter MFG Name:Vishay Dale from Part R6
+Removed Parameter MFG Name:Vishay Dale from Part R7
+Removed Parameter MFG Name:Vishay Dale from Part R8
+Removed Parameter MFG Name:Vishay Dale from Part R9
+Removed Parameter MFG Name:Vishay Dale from Part R10
+Removed Parameter MFG Name:Vishay Dale from Part R11
+Removed Parameter MFG Name:Vishay Dale from Part R12
+Removed Parameter MFG Part Number:BSS138 from Part Q1
+Removed Parameter MFG Part Number:BSS138 from Part Q2
+Removed Parameter MFG Part Number:BSS138 from Part Q3
+Removed Parameter MFG Part Number:BSS138 from Part Q4
+Removed Parameter MFG Part Number:BSS138 from Part Q5
+Removed Parameter MFG Part Number:BSS138 from Part Q6
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R1
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R2
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R3
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R4
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R5
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R6
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R7
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R8
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R9
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R10
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R11
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R12
+Removed Parameter Military Standard:Not from Part R1
+Removed Parameter Military Standard:Not from Part R2
+Removed Parameter Military Standard:Not from Part R3
+Removed Parameter Military Standard:Not from Part R4
+Removed Parameter Military Standard:Not from Part R5
+Removed Parameter Military Standard:Not from Part R6
+Removed Parameter Military Standard:Not from Part R7
+Removed Parameter Military Standard:Not from Part R8
+Removed Parameter Military Standard:Not from Part R9
+Removed Parameter Military Standard:Not from Part R10
+Removed Parameter Military Standard:Not from Part R11
+Removed Parameter Military Standard:Not from Part R12
+Removed Parameter Min Operating Temperature:-55°C from Part Q1
+Removed Parameter Min Operating Temperature:-55°C from Part Q2
+Removed Parameter Min Operating Temperature:-55°C from Part Q3
+Removed Parameter Min Operating Temperature:-55°C from Part Q4
+Removed Parameter Min Operating Temperature:-55°C from Part Q5
+Removed Parameter Min Operating Temperature:-55°C from Part Q6
+Removed Parameter Min Operating Temperature:-55°C from Part R1
+Removed Parameter Min Operating Temperature:-55°C from Part R2
+Removed Parameter Min Operating Temperature:-55°C from Part R3
+Removed Parameter Min Operating Temperature:-55°C from Part R4
+Removed Parameter Min Operating Temperature:-55°C from Part R5
+Removed Parameter Min Operating Temperature:-55°C from Part R6
+Removed Parameter Min Operating Temperature:-55°C from Part R7
+Removed Parameter Min Operating Temperature:-55°C from Part R8
+Removed Parameter Min Operating Temperature:-55°C from Part R9
+Removed Parameter Min Operating Temperature:-55°C from Part R10
+Removed Parameter Min Operating Temperature:-55°C from Part R11
+Removed Parameter Min Operating Temperature:-55°C from Part R12
+Removed Parameter Mount:Surface Mount from Part Q1
+Removed Parameter Mount:Surface Mount from Part Q2
+Removed Parameter Mount:Surface Mount from Part Q3
+Removed Parameter Mount:Surface Mount from Part Q4
+Removed Parameter Mount:Surface Mount from Part Q5
+Removed Parameter Mount:Surface Mount from Part Q6
+Removed Parameter Mount:Surface Mount from Part R1
+Removed Parameter Mount:Surface Mount from Part R2
+Removed Parameter Mount:Surface Mount from Part R3
+Removed Parameter Mount:Surface Mount from Part R4
+Removed Parameter Mount:Surface Mount from Part R5
+Removed Parameter Mount:Surface Mount from Part R6
+Removed Parameter Mount:Surface Mount from Part R7
+Removed Parameter Mount:Surface Mount from Part R8
+Removed Parameter Mount:Surface Mount from Part R9
+Removed Parameter Mount:Surface Mount from Part R10
+Removed Parameter Mount:Surface Mount from Part R11
+Removed Parameter Mount:Surface Mount from Part R12
+Removed Parameter Nominal Vgs:1.3V from Part Q1
+Removed Parameter Nominal Vgs:1.3V from Part Q2
+Removed Parameter Nominal Vgs:1.3V from Part Q3
+Removed Parameter Nominal Vgs:1.3V from Part Q4
+Removed Parameter Nominal Vgs:1.3V from Part Q5
+Removed Parameter Nominal Vgs:1.3V from Part Q6
+Removed Parameter Number of Elements:1 from Part Q1
+Removed Parameter Number of Elements:1 from Part Q2
+Removed Parameter Number of Elements:1 from Part Q3
+Removed Parameter Number of Elements:1 from Part Q4
+Removed Parameter Number of Elements:1 from Part Q5
+Removed Parameter Number of Elements:1 from Part Q6
+Removed Parameter Number of Pins:2 from Part R1
+Removed Parameter Number of Pins:2 from Part R2
+Removed Parameter Number of Pins:2 from Part R3
+Removed Parameter Number of Pins:2 from Part R4
+Removed Parameter Number of Pins:2 from Part R5
+Removed Parameter Number of Pins:2 from Part R6
+Removed Parameter Number of Pins:2 from Part R7
+Removed Parameter Number of Pins:2 from Part R8
+Removed Parameter Number of Pins:2 from Part R9
+Removed Parameter Number of Pins:2 from Part R10
+Removed Parameter Number of Pins:2 from Part R11
+Removed Parameter Number of Pins:2 from Part R12
+Removed Parameter Number of Pins:3 from Part Q1
+Removed Parameter Number of Pins:3 from Part Q2
+Removed Parameter Number of Pins:3 from Part Q3
+Removed Parameter Number of Pins:3 from Part Q4
+Removed Parameter Number of Pins:3 from Part Q5
+Removed Parameter Number of Pins:3 from Part Q6
+Removed Parameter Number of Terminations:2 from Part R1
+Removed Parameter Number of Terminations:2 from Part R2
+Removed Parameter Number of Terminations:2 from Part R3
+Removed Parameter Number of Terminations:2 from Part R4
+Removed Parameter Number of Terminations:2 from Part R5
+Removed Parameter Number of Terminations:2 from Part R6
+Removed Parameter Number of Terminations:2 from Part R7
+Removed Parameter Number of Terminations:2 from Part R8
+Removed Parameter Number of Terminations:2 from Part R9
+Removed Parameter Number of Terminations:2 from Part R10
+Removed Parameter Number of Terminations:2 from Part R11
+Removed Parameter Number of Terminations:2 from Part R12
+Removed Parameter On-State Resistance:6R from Part Q1
+Removed Parameter On-State Resistance:6R from Part Q2
+Removed Parameter On-State Resistance:6R from Part Q3
+Removed Parameter On-State Resistance:6R from Part Q4
+Removed Parameter On-State Resistance:6R from Part Q5
+Removed Parameter On-State Resistance:6R from Part Q6
+Removed Parameter Package Quantity:1 from Part Q1
+Removed Parameter Package Quantity:1 from Part Q2
+Removed Parameter Package Quantity:1 from Part Q3
+Removed Parameter Package Quantity:1 from Part Q4
+Removed Parameter Package Quantity:1 from Part Q5
+Removed Parameter Package Quantity:1 from Part Q6
+Removed Parameter Package Quantity:10 from Part R1
+Removed Parameter Package Quantity:10 from Part R2
+Removed Parameter Package Quantity:10 from Part R3
+Removed Parameter Package Quantity:10 from Part R4
+Removed Parameter Package Quantity:10 from Part R5
+Removed Parameter Package Quantity:10 from Part R6
+Removed Parameter Package Quantity:10 from Part R7
+Removed Parameter Package Quantity:10 from Part R8
+Removed Parameter Package Quantity:10 from Part R9
+Removed Parameter Package Quantity:10 from Part R10
+Removed Parameter Package Quantity:10 from Part R11
+Removed Parameter Package Quantity:10 from Part R12
+Removed Parameter Packaging:Tape and Reel from Part Q1
+Removed Parameter Packaging:Tape and Reel from Part Q2
+Removed Parameter Packaging:Tape and Reel from Part Q3
+Removed Parameter Packaging:Tape and Reel from Part Q4
+Removed Parameter Packaging:Tape and Reel from Part Q5
+Removed Parameter Packaging:Tape and Reel from Part Q6
+Removed Parameter Packaging:Tape and Reel from Part R1
+Removed Parameter Packaging:Tape and Reel from Part R2
+Removed Parameter Packaging:Tape and Reel from Part R3
+Removed Parameter Packaging:Tape and Reel from Part R4
+Removed Parameter Packaging:Tape and Reel from Part R5
+Removed Parameter Packaging:Tape and Reel from Part R6
+Removed Parameter Packaging:Tape and Reel from Part R7
+Removed Parameter Packaging:Tape and Reel from Part R8
+Removed Parameter Packaging:Tape and Reel from Part R9
+Removed Parameter Packaging:Tape and Reel from Part R10
+Removed Parameter Packaging:Tape and Reel from Part R11
+Removed Parameter Packaging:Tape and Reel from Part R12
+Removed Parameter Power Dissipation:360mW from Part Q1
+Removed Parameter Power Dissipation:360mW from Part Q2
+Removed Parameter Power Dissipation:360mW from Part Q3
+Removed Parameter Power Dissipation:360mW from Part Q4
+Removed Parameter Power Dissipation:360mW from Part Q5
+Removed Parameter Power Dissipation:360mW from Part Q6
+Removed Parameter Power Rating:63mW from Part R1
+Removed Parameter Power Rating:63mW from Part R2
+Removed Parameter Power Rating:63mW from Part R3
+Removed Parameter Power Rating:63mW from Part R4
+Removed Parameter Power Rating:63mW from Part R5
+Removed Parameter Power Rating:63mW from Part R6
+Removed Parameter Power Rating:63mW from Part R7
+Removed Parameter Power Rating:63mW from Part R8
+Removed Parameter Power Rating:63mW from Part R9
+Removed Parameter Power Rating:63mW from Part R10
+Removed Parameter Power Rating:63mW from Part R11
+Removed Parameter Power Rating:63mW from Part R12
+Removed Parameter Radiation Hardening:No from Part Q1
+Removed Parameter Radiation Hardening:No from Part Q2
+Removed Parameter Radiation Hardening:No from Part Q3
+Removed Parameter Radiation Hardening:No from Part Q4
+Removed Parameter Radiation Hardening:No from Part Q5
+Removed Parameter Radiation Hardening:No from Part Q6
+Removed Parameter Radiation Hardening:No from Part R1
+Removed Parameter Radiation Hardening:No from Part R2
+Removed Parameter Radiation Hardening:No from Part R3
+Removed Parameter Radiation Hardening:No from Part R4
+Removed Parameter Radiation Hardening:No from Part R5
+Removed Parameter Radiation Hardening:No from Part R6
+Removed Parameter Radiation Hardening:No from Part R7
+Removed Parameter Radiation Hardening:No from Part R8
+Removed Parameter Radiation Hardening:No from Part R9
+Removed Parameter Radiation Hardening:No from Part R10
+Removed Parameter Radiation Hardening:No from Part R11
+Removed Parameter Radiation Hardening:No from Part R12
+Removed Parameter Rds On Max:3.5R from Part Q1
+Removed Parameter Rds On Max:3.5R from Part Q2
+Removed Parameter Rds On Max:3.5R from Part Q3
+Removed Parameter Rds On Max:3.5R from Part Q4
+Removed Parameter Rds On Max:3.5R from Part Q5
+Removed Parameter Rds On Max:3.5R from Part Q6
+Removed Parameter REACH SVHC:No SVHC from Part Q1
+Removed Parameter REACH SVHC:No SVHC from Part Q2
+Removed Parameter REACH SVHC:No SVHC from Part Q3
+Removed Parameter REACH SVHC:No SVHC from Part Q4
+Removed Parameter REACH SVHC:No SVHC from Part Q5
+Removed Parameter REACH SVHC:No SVHC from Part Q6
+Removed Parameter Resistance:10k from Part R1
+Removed Parameter Resistance:10k from Part R2
+Removed Parameter Resistance:10k from Part R3
+Removed Parameter Resistance:10k from Part R4
+Removed Parameter Resistance:10k from Part R5
+Removed Parameter Resistance:10k from Part R6
+Removed Parameter Resistance:10k from Part R7
+Removed Parameter Resistance:10k from Part R8
+Removed Parameter Resistance:10k from Part R9
+Removed Parameter Resistance:10k from Part R10
+Removed Parameter Resistance:10k from Part R11
+Removed Parameter Resistance:10k from Part R12
+Removed Parameter Rise Time:9ns from Part Q1
+Removed Parameter Rise Time:9ns from Part Q2
+Removed Parameter Rise Time:9ns from Part Q3
+Removed Parameter Rise Time:9ns from Part Q4
+Removed Parameter Rise Time:9ns from Part Q5
+Removed Parameter Rise Time:9ns from Part Q6
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R1
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R2
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R3
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R4
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R5
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R6
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R7
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R8
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R9
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R10
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R11
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R12
+Removed Parameter Termination:SMD/SMT from Part Q1
+Removed Parameter Termination:SMD/SMT from Part Q2
+Removed Parameter Termination:SMD/SMT from Part Q3
+Removed Parameter Termination:SMD/SMT from Part Q4
+Removed Parameter Termination:SMD/SMT from Part Q5
+Removed Parameter Termination:SMD/SMT from Part Q6
+Removed Parameter Termination:SMD/SMT from Part R1
+Removed Parameter Termination:SMD/SMT from Part R2
+Removed Parameter Termination:SMD/SMT from Part R3
+Removed Parameter Termination:SMD/SMT from Part R4
+Removed Parameter Termination:SMD/SMT from Part R5
+Removed Parameter Termination:SMD/SMT from Part R6
+Removed Parameter Termination:SMD/SMT from Part R7
+Removed Parameter Termination:SMD/SMT from Part R8
+Removed Parameter Termination:SMD/SMT from Part R9
+Removed Parameter Termination:SMD/SMT from Part R10
+Removed Parameter Termination:SMD/SMT from Part R11
+Removed Parameter Termination:SMD/SMT from Part R12
+Removed Parameter Threshold Voltage:1.3V from Part Q1
+Removed Parameter Threshold Voltage:1.3V from Part Q2
+Removed Parameter Threshold Voltage:1.3V from Part Q3
+Removed Parameter Threshold Voltage:1.3V from Part Q4
+Removed Parameter Threshold Voltage:1.3V from Part Q5
+Removed Parameter Threshold Voltage:1.3V from Part Q6
+Removed Parameter Tolerance:1% from Part R1
+Removed Parameter Tolerance:1% from Part R2
+Removed Parameter Tolerance:1% from Part R3
+Removed Parameter Tolerance:1% from Part R4
+Removed Parameter Tolerance:1% from Part R5
+Removed Parameter Tolerance:1% from Part R6
+Removed Parameter Tolerance:1% from Part R7
+Removed Parameter Tolerance:1% from Part R8
+Removed Parameter Tolerance:1% from Part R9
+Removed Parameter Tolerance:1% from Part R10
+Removed Parameter Tolerance:1% from Part R11
+Removed Parameter Tolerance:1% from Part R12
+Removed Parameter Turn-Off Delay Time:20ns from Part Q1
+Removed Parameter Turn-Off Delay Time:20ns from Part Q2
+Removed Parameter Turn-Off Delay Time:20ns from Part Q3
+Removed Parameter Turn-Off Delay Time:20ns from Part Q4
+Removed Parameter Turn-Off Delay Time:20ns from Part Q5
+Removed Parameter Turn-Off Delay Time:20ns from Part Q6
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q1
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q2
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q3
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q4
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q5
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q6
+Removed Parameter Voltage Rating (DC):50V from Part Q1
+Removed Parameter Voltage Rating (DC):50V from Part Q2
+Removed Parameter Voltage Rating (DC):50V from Part Q3
+Removed Parameter Voltage Rating (DC):50V from Part Q4
+Removed Parameter Voltage Rating (DC):50V from Part Q5
+Removed Parameter Voltage Rating (DC):50V from Part Q6
+Removed Parameter Voltage Rating (DC):50V from Part R1
+Removed Parameter Voltage Rating (DC):50V from Part R2
+Removed Parameter Voltage Rating (DC):50V from Part R3
+Removed Parameter Voltage Rating (DC):50V from Part R4
+Removed Parameter Voltage Rating (DC):50V from Part R5
+Removed Parameter Voltage Rating (DC):50V from Part R6
+Removed Parameter Voltage Rating (DC):50V from Part R7
+Removed Parameter Voltage Rating (DC):50V from Part R8
+Removed Parameter Voltage Rating (DC):50V from Part R9
+Removed Parameter Voltage Rating (DC):50V from Part R10
+Removed Parameter Voltage Rating (DC):50V from Part R11
+Removed Parameter Voltage Rating (DC):50V from Part R12
+Removed Parameter Voltage Rating:50V from Part R1
+Removed Parameter Voltage Rating:50V from Part R2
+Removed Parameter Voltage Rating:50V from Part R3
+Removed Parameter Voltage Rating:50V from Part R4
+Removed Parameter Voltage Rating:50V from Part R5
+Removed Parameter Voltage Rating:50V from Part R6
+Removed Parameter Voltage Rating:50V from Part R7
+Removed Parameter Voltage Rating:50V from Part R8
+Removed Parameter Voltage Rating:50V from Part R9
+Removed Parameter Voltage Rating:50V from Part R10
+Removed Parameter Voltage Rating:50V from Part R11
+Removed Parameter Voltage Rating:50V from Part R12
+Removed Parameter Weight:0.03g from Part Q1
+Removed Parameter Weight:0.03g from Part Q2
+Removed Parameter Weight:0.03g from Part Q3
+Removed Parameter Weight:0.03g from Part Q4
+Removed Parameter Weight:0.03g from Part Q5
+Removed Parameter Weight:0.03g from Part Q6
+Removed Parameter Weight:2.3E-05oz from Part R1
+Removed Parameter Weight:2.3E-05oz from Part R2
+Removed Parameter Weight:2.3E-05oz from Part R3
+Removed Parameter Weight:2.3E-05oz from Part R4
+Removed Parameter Weight:2.3E-05oz from Part R5
+Removed Parameter Weight:2.3E-05oz from Part R6
+Removed Parameter Weight:2.3E-05oz from Part R7
+Removed Parameter Weight:2.3E-05oz from Part R8
+Removed Parameter Weight:2.3E-05oz from Part R9
+Removed Parameter Weight:2.3E-05oz from Part R10
+Removed Parameter Weight:2.3E-05oz from Part R11
+Removed Parameter Weight:2.3E-05oz from Part R12
+Removed Parameter Width:0.5mm from Part R1
+Removed Parameter Width:0.5mm from Part R2
+Removed Parameter Width:0.5mm from Part R3
+Removed Parameter Width:0.5mm from Part R4
+Removed Parameter Width:0.5mm from Part R5
+Removed Parameter Width:0.5mm from Part R6
+Removed Parameter Width:0.5mm from Part R7
+Removed Parameter Width:0.5mm from Part R8
+Removed Parameter Width:0.5mm from Part R9
+Removed Parameter Width:0.5mm from Part R10
+Removed Parameter Width:0.5mm from Part R11
+Removed Parameter Width:0.5mm from Part R12
+Removed Parameter Width:1.3mm from Part Q1
+Removed Parameter Width:1.3mm from Part Q2
+Removed Parameter Width:1.3mm from Part Q3
+Removed Parameter Width:1.3mm from Part Q4
+Removed Parameter Width:1.3mm from Part Q5
+Removed Parameter Width:1.3mm from Part Q6
+Change Value of Parameter Manufacturer 1 in Part Q1 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q1 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q2 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q2 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q3 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q3 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q4 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q4 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q5 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q5 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q6 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q6 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R1 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R1 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R2 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R2 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R3 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R3 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R4 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R4 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R5 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R5 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R6 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R6 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R7 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R7 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R8 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R8 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R9 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R9 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R10 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R10 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R11 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R11 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R12 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R12 Old=Manufacturer Part Number New=Manufacturer Part Number 1

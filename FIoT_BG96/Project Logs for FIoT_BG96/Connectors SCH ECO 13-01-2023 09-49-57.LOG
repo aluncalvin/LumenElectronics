@@ -1,0 +1,63 @@
+Removed Parameter Contact Resistance:20mOhm from Part J1
+Removed Parameter Contact Resistance:20mOhm from Part P1
+Removed Parameter Contact Resistance:20mOhm from Part P2
+Removed Parameter Datasheet URL:https://katalog.we-online.de/em/datasheet/6130xx11121.pdf from Part P1
+Removed Parameter Datasheet URL:https://katalog.we-online.de/em/datasheet/6130xx11121.pdf from Part P2
+Removed Parameter Datasheet URL:https://katalog.we-online.de/em/datasheet/6130xx21121.pdf from Part J1
+Removed Parameter Gender:Male from Part J1
+Removed Parameter Gender:Male from Part P1
+Removed Parameter Gender:Male from Part P2
+Removed Parameter IR Max (uA):2.5 from Part D1
+Removed Parameter Manufacturer URL:http://www.we-online.de from Part J1
+Removed Parameter Manufacturer URL:http://www.we-online.de from Part P1
+Removed Parameter Manufacturer URL:http://www.we-online.de from Part P2
+Removed Parameter MFG Name:ON Semiconductor from Part D1
+Removed Parameter MFG Part Number:ESD9X3.3ST5G from Part D1
+Removed Parameter Operating Temperature:-40to105degC from Part J1
+Removed Parameter Operating Temperature:-40to105degC from Part P1
+Removed Parameter Operating Temperature:-40to105degC from Part P2
+Removed Parameter Orientation:Vertical from Part J1
+Removed Parameter Orientation:Vertical from Part P1
+Removed Parameter Orientation:Vertical from Part P2
+Removed Parameter Package Reference:61300311121 from Part P1
+Removed Parameter Package Reference:61300311121 from Part P2
+Removed Parameter Package Reference:61302221121 from Part J1
+Removed Parameter Packaging:Bag from Part J1
+Removed Parameter Packaging:Bag from Part P1
+Removed Parameter Packaging:Bag from Part P2
+Removed Parameter Part Number:61300311121 from Part P1
+Removed Parameter Part Number:61300311121 from Part P2
+Removed Parameter Part Number:61302221121 from Part J1
+Removed Parameter Part Number:ESD9X3.3ST5G from Part D1
+Removed Parameter Pin Number:3 from Part P1
+Removed Parameter Pin Number:3 from Part P2
+Removed Parameter Pin Number:22 from Part J1
+Removed Parameter Pitch:2.54mm from Part J1
+Removed Parameter Pitch:2.54mm from Part P1
+Removed Parameter Pitch:2.54mm from Part P2
+Removed Parameter Publisher:WurthElektronik from Part J1
+Removed Parameter Publisher:WurthElektronik from Part P1
+Removed Parameter Publisher:WurthElektronik from Part P2
+Removed Parameter Rated Current:3A from Part J1
+Removed Parameter Rated Current:3A from Part P1
+Removed Parameter Rated Current:3A from Part P2
+Removed Parameter Row Number:Dual from Part J1
+Removed Parameter Row Number:Single from Part P1
+Removed Parameter Row Number:Single from Part P2
+Removed Parameter V(BR) Min (V):5 from Part D1
+Removed Parameter Value:3V3 TVS from Part D1
+Removed Parameter VRWM Max (V):3.3 from Part D1
+Removed Parameter Withstanding Voltage:500VAC from Part J1
+Removed Parameter Withstanding Voltage:500VAC from Part P1
+Removed Parameter Withstanding Voltage:500VAC from Part P2
+Removed Parameter Working Voltage:250VAC from Part J1
+Removed Parameter Working Voltage:250VAC from Part P1
+Removed Parameter Working Voltage:250VAC from Part P2
+Change Value of Parameter Manufacturer 1 in Part D1 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part D1 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part J1 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer 1 in Part P1 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer 1 in Part P2 Old=Manufacturer New=Manufacturer 1
+Added Parameter Manufacturer Part Number 1=61300311121 to Part P1
+Added Parameter Manufacturer Part Number 1=61300311121 to Part P2
+Added Parameter Manufacturer Part Number 1=61302221121 to Part J1

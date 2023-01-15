@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Status_Net_LEDs Member=LED?
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q11
+Change Component Designator: OldDesignator=Q? NewDesignator=Q12
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetLED?_3 New Net Name=NetLED5_3
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ12_3
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ11_3 Pin=R18-1
+Added Net: Name=NetQ11_3
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component LED4 LTST-C19HE1WT
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component LED5 LTST-C19HE1WT
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component Q12 BSS138K
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component R21 0402WGF1001TCE

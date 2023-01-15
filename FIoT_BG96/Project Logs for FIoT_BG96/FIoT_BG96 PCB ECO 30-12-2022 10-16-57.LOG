@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+3V8 Pin=C1-1
+Removed Pin From Net: NetName=+3V8 Pin=C3-2
+Removed Pin From Net: NetName=+3V8 Pin=C4-2
+Removed Pin From Net: NetName=+3V8 Pin=C5-2
+Removed Pin From Net: NetName=+3V8 Pin=D2-1
+Removed Pin From Net: NetName=+3V8 Pin=IC1-32
+Removed Pin From Net: NetName=+3V8 Pin=IC1-33
+Removed Pin From Net: NetName=+3V8 Pin=J1-19
+Removed Pin From Net: NetName=+3V8 Pin=J1-21
+Removed Pin From Net: NetName=+3V8 Pin=LED1-4
+Removed Pin From Net: NetName=+3V8 Pin=LED2-4
+Change Net Name : Old Net Name=+3V8 New Net Name=+3V8_RF
+Added Pin To Net: NetName=+3V8_BB Pin=J1-19
+Added Pin To Net: NetName=+3V8_BB Pin=J1-21
+Added Net: Name=+3V8_BB
+Added Pin To Net: NetName=+3V8 Pin=D2-1
+Added Pin To Net: NetName=+3V8 Pin=LED1-4
+Added Pin To Net: NetName=+3V8 Pin=LED2-4
+Added Net: Name=+3V8
+Added Pin To Net: NetName=3V8_BB Pin=C1-1
+Added Pin To Net: NetName=3V8_BB Pin=C3-2
+Added Pin To Net: NetName=3V8_BB Pin=C4-2
+Added Pin To Net: NetName=3V8_BB Pin=C5-2
+Added Pin To Net: NetName=3V8_BB Pin=IC1-32
+Added Pin To Net: NetName=3V8_BB Pin=IC1-33
+Added Net: Name=3V8_BB

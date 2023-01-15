@@ -1,0 +1,154 @@
+Removed Parameter Availability:Unavailable from Part LED1
+Removed Parameter Availability:Unavailable from Part LED2
+Removed Parameter Case Code (Imperial):0402 from Part R20
+Removed Parameter Case Code (Imperial):0402 from Part R21
+Removed Parameter Case Code (Metric):1005 from Part R20
+Removed Parameter Case Code (Metric):1005 from Part R21
+Removed Parameter Composition:Thick Film from Part R20
+Removed Parameter Composition:Thick Film from Part R21
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q9
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q10
+Removed Parameter Current Rating:220mA from Part Q9
+Removed Parameter Current Rating:220mA from Part Q10
+Removed Parameter Depth:0.5mm from Part R20
+Removed Parameter Depth:0.5mm from Part R21
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q9
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q10
+Removed Parameter Drain to Source Resistance:3.5R from Part Q9
+Removed Parameter Drain to Source Resistance:3.5R from Part Q10
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q9
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q10
+Removed Parameter Dual Supply Voltage:50V from Part Q9
+Removed Parameter Dual Supply Voltage:50V from Part Q10
+Removed Parameter Element Configuration:Single from Part Q9
+Removed Parameter Element Configuration:Single from Part Q10
+Removed Parameter Fall Time:9ns from Part Q9
+Removed Parameter Fall Time:9ns from Part Q10
+Removed Parameter Features:Automotive AEC-Q200 from Part R20
+Removed Parameter Features:Automotive AEC-Q200 from Part R21
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q9
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q10
+Removed Parameter Height:0.35mm from Part R20
+Removed Parameter Height:0.35mm from Part R21
+Removed Parameter Height:0.93mm from Part Q9
+Removed Parameter Height:0.93mm from Part Q10
+Removed Parameter Input Capacitance:27pF from Part Q9
+Removed Parameter Input Capacitance:27pF from Part Q10
+Removed Parameter Lead Free:Lead Free from Part Q9
+Removed Parameter Lead Free:Lead Free from Part Q10
+Removed Parameter Lead Free:Lead Free from Part R20
+Removed Parameter Lead Free:Lead Free from Part R21
+Removed Parameter Length:1mm from Part R20
+Removed Parameter Length:1mm from Part R21
+Removed Parameter Length:2.92mm from Part Q9
+Removed Parameter Length:2.92mm from Part Q10
+Removed Parameter Max Operating Temperature:150°C from Part Q9
+Removed Parameter Max Operating Temperature:150°C from Part Q10
+Removed Parameter Max Operating Temperature:155°C from Part R20
+Removed Parameter Max Operating Temperature:155°C from Part R21
+Removed Parameter Max Power Dissipation:63mW from Part R20
+Removed Parameter Max Power Dissipation:63mW from Part R21
+Removed Parameter Max Power Dissipation:360mW from Part Q9
+Removed Parameter Max Power Dissipation:360mW from Part Q10
+Removed Parameter MF:Lite-On Inc. from Part LED1
+Removed Parameter MF:Lite-On Inc. from Part LED2
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q9
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q10
+Removed Parameter MFG Name:Vishay Dale from Part R20
+Removed Parameter MFG Name:Vishay Dale from Part R21
+Removed Parameter MFG Part Number:BSS138 from Part Q9
+Removed Parameter MFG Part Number:BSS138 from Part Q10
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R20
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R21
+Removed Parameter Military Standard:Not from Part R20
+Removed Parameter Military Standard:Not from Part R21
+Removed Parameter Min Operating Temperature:-55°C from Part Q9
+Removed Parameter Min Operating Temperature:-55°C from Part Q10
+Removed Parameter Min Operating Temperature:-55°C from Part R20
+Removed Parameter Min Operating Temperature:-55°C from Part R21
+Removed Parameter Mount:Surface Mount from Part Q9
+Removed Parameter Mount:Surface Mount from Part Q10
+Removed Parameter Mount:Surface Mount from Part R20
+Removed Parameter Mount:Surface Mount from Part R21
+Removed Parameter MP:LTST-C19HE1WT from Part LED1
+Removed Parameter MP:LTST-C19HE1WT from Part LED2
+Removed Parameter Nominal Vgs:1.3V from Part Q9
+Removed Parameter Nominal Vgs:1.3V from Part Q10
+Removed Parameter Number of Elements:1 from Part Q9
+Removed Parameter Number of Elements:1 from Part Q10
+Removed Parameter Number of Pins:2 from Part R20
+Removed Parameter Number of Pins:2 from Part R21
+Removed Parameter Number of Pins:3 from Part Q9
+Removed Parameter Number of Pins:3 from Part Q10
+Removed Parameter Number of Terminations:2 from Part R20
+Removed Parameter Number of Terminations:2 from Part R21
+Removed Parameter On-State Resistance:6R from Part Q9
+Removed Parameter On-State Resistance:6R from Part Q10
+Removed Parameter Package:0606 Lite-On from Part LED1
+Removed Parameter Package:0606 Lite-On from Part LED2
+Removed Parameter Package Quantity:1 from Part Q9
+Removed Parameter Package Quantity:1 from Part Q10
+Removed Parameter Package Quantity:10 from Part R20
+Removed Parameter Package Quantity:10 from Part R21
+Removed Parameter Packaging:Tape and Reel from Part Q9
+Removed Parameter Packaging:Tape and Reel from Part Q10
+Removed Parameter Packaging:Tape and Reel from Part R20
+Removed Parameter Packaging:Tape and Reel from Part R21
+Removed Parameter Power Dissipation:360mW from Part Q9
+Removed Parameter Power Dissipation:360mW from Part Q10
+Removed Parameter Power Rating:63mW from Part R20
+Removed Parameter Power Rating:63mW from Part R21
+Removed Parameter Price:None from Part LED1
+Removed Parameter Price:None from Part LED2
+Removed Parameter Radiation Hardening:No from Part Q9
+Removed Parameter Radiation Hardening:No from Part Q10
+Removed Parameter Radiation Hardening:No from Part R20
+Removed Parameter Radiation Hardening:No from Part R21
+Removed Parameter Rds On Max:3.5R from Part Q9
+Removed Parameter Rds On Max:3.5R from Part Q10
+Removed Parameter REACH SVHC:No SVHC from Part Q9
+Removed Parameter REACH SVHC:No SVHC from Part Q10
+Removed Parameter Resistance:1K from Part R20
+Removed Parameter Resistance:1K from Part R21
+Removed Parameter Rise Time:9ns from Part Q9
+Removed Parameter Rise Time:9ns from Part Q10
+Removed Parameter SnapEDA_Link:https://www.snapeda.com/parts/LTST-C19HE1WT/Lite-On%20Inc./view-part/423425/?ref=snap from Part LED1
+Removed Parameter SnapEDA_Link:https://www.snapeda.com/parts/LTST-C19HE1WT/Lite-On%20Inc./view-part/423425/?ref=snap from Part LED2
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R20
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R21
+Removed Parameter Termination:SMD/SMT from Part Q9
+Removed Parameter Termination:SMD/SMT from Part Q10
+Removed Parameter Termination:SMD/SMT from Part R20
+Removed Parameter Termination:SMD/SMT from Part R21
+Removed Parameter Threshold Voltage:1.3V from Part Q9
+Removed Parameter Threshold Voltage:1.3V from Part Q10
+Removed Parameter Tolerance:1% from Part R20
+Removed Parameter Tolerance:1% from Part R21
+Removed Parameter Turn-Off Delay Time:20ns from Part Q9
+Removed Parameter Turn-Off Delay Time:20ns from Part Q10
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q9
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q10
+Removed Parameter Value:* from Part LED1
+Removed Parameter Value:* from Part LED2
+Removed Parameter Voltage Rating (DC):50V from Part Q9
+Removed Parameter Voltage Rating (DC):50V from Part Q10
+Removed Parameter Voltage Rating (DC):50V from Part R20
+Removed Parameter Voltage Rating (DC):50V from Part R21
+Removed Parameter Voltage Rating:50V from Part R20
+Removed Parameter Voltage Rating:50V from Part R21
+Removed Parameter Weight:0.03g from Part Q9
+Removed Parameter Weight:0.03g from Part Q10
+Removed Parameter Weight:2.3E-05oz from Part R20
+Removed Parameter Weight:2.3E-05oz from Part R21
+Removed Parameter Width:0.5mm from Part R20
+Removed Parameter Width:0.5mm from Part R21
+Removed Parameter Width:1.3mm from Part Q9
+Removed Parameter Width:1.3mm from Part Q10
+Change Value of Parameter Manufacturer 1 in Part Q9 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q9 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q10 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q10 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R20 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R20 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R21 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R21 Old=Manufacturer Part Number New=Manufacturer Part Number 1

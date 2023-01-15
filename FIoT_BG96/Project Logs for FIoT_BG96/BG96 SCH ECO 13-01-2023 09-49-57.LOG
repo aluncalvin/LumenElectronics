@@ -1,0 +1,92 @@
+Removed Parameter Approval Category:UL94V-0 from Part ANT1
+Removed Parameter Approval Category:UL94V-0 from Part ANT2
+Removed Parameter Arrow Part Number: from Part IC1
+Removed Parameter Arrow Price/Stock: from Part IC1
+Removed Parameter Body Plating:Silver from Part ANT1
+Removed Parameter Body Plating:Silver from Part ANT2
+Removed Parameter Body Style:StraightJack from Part ANT1
+Removed Parameter Body Style:StraightJack from Part ANT2
+Removed Parameter Centre Contact Resistance:25mohm from Part ANT1
+Removed Parameter Centre Contact Resistance:25mohm from Part ANT2
+Removed Parameter Coaxial Termination:Solder from Part ANT1
+Removed Parameter Coaxial Termination:Solder from Part ANT2
+Removed Parameter Connector Mounting:PCB from Part ANT1
+Removed Parameter Connector Mounting:PCB from Part ANT2
+Removed Parameter Connector Mounting Orientation:PCBoard from Part ANT1
+Removed Parameter Connector Mounting Orientation:PCBoard from Part ANT2
+Removed Parameter Connector Type:UFLCoaxial from Part ANT1
+Removed Parameter Connector Type:UFLCoaxial from Part ANT2
+Removed Parameter Contact Material:PhosphorBronze from Part ANT1
+Removed Parameter Contact Material:PhosphorBronze from Part ANT2
+Removed Parameter Contact Resistance:10mohm from Part ANT1
+Removed Parameter Contact Resistance:10mohm from Part ANT2
+Removed Parameter Datasheet Link:http://www.quectel.com/product/bg96.htm from Part IC1
+Removed Parameter Datasheet URL:http://www.farnell.com/datasheets/91524.pdf from Part ANT1
+Removed Parameter Datasheet URL:http://www.farnell.com/datasheets/91524.pdf from Part ANT2
+Removed Parameter Datasheet Version:Feb-04 from Part ANT1
+Removed Parameter Datasheet Version:Feb-04 from Part ANT2
+Removed Parameter External Length / Height:2.5mm from Part ANT1
+Removed Parameter External Length / Height:2.5mm from Part ANT2
+Removed Parameter Female Contact Material:PhosphorBronze from Part ANT1
+Removed Parameter Female Contact Material:PhosphorBronze from Part ANT2
+Removed Parameter Female Contact Plating:Gold from Part ANT1
+Removed Parameter Female Contact Plating:Gold from Part ANT2
+Removed Parameter Flammability Rating:UL94V-0 from Part ANT1
+Removed Parameter Flammability Rating:UL94V-0 from Part ANT2
+Removed Parameter Frequency Max:6GHz from Part ANT1
+Removed Parameter Frequency Max:6GHz from Part ANT2
+Removed Parameter Height:2mm from Part IC1
+Removed Parameter Impedance:50ohm from Part ANT1
+Removed Parameter Impedance:50ohm from Part ANT2
+Removed Parameter Insulation Resistance:500Mohm from Part ANT1
+Removed Parameter Insulation Resistance:500Mohm from Part ANT2
+Removed Parameter Jacket Material:LCP from Part ANT1
+Removed Parameter Jacket Material:LCP from Part ANT2
+Removed Parameter Male Contact Material:Brass from Part ANT1
+Removed Parameter Male Contact Material:Brass from Part ANT2
+Removed Parameter Male Contact Plating:Gold from Part ANT1
+Removed Parameter Male Contact Plating:Gold from Part ANT2
+Removed Parameter Manufacturer_Name:Quectel from Part IC1
+Removed Parameter Manufacturer_Part_Number:BG96MA from Part IC1
+Removed Parameter Manufacturer URL:https://www.hirose.com from Part ANT1
+Removed Parameter Manufacturer URL:https://www.hirose.com from Part ANT2
+Removed Parameter Material:PhosphorBronze from Part ANT1
+Removed Parameter Material:PhosphorBronze from Part ANT2
+Removed Parameter MFG Name:Hirose from Part ANT1
+Removed Parameter MFG Name:Hirose from Part ANT2
+Removed Parameter MFG Name:Quectel from Part IC1
+Removed Parameter MFG Part Number:BG96MA from Part IC1
+Removed Parameter MFG Part Number:U.FL-R-SMT(01) from Part ANT1
+Removed Parameter MFG Part Number:U.FL-R-SMT(01) from Part ANT2
+Removed Parameter Mounting Type:PCBoard from Part ANT1
+Removed Parameter Mounting Type:PCBoard from Part ANT2
+Removed Parameter Mouser Part Number: from Part IC1
+Removed Parameter Mouser Price/Stock: from Part IC1
+Removed Parameter Operating Frequency Max:6GHz from Part ANT1
+Removed Parameter Operating Frequency Max:6GHz from Part ANT2
+Removed Parameter Operating Temperature Max:90degC from Part ANT1
+Removed Parameter Operating Temperature Max:90degC from Part ANT2
+Removed Parameter Operating Temperature Min:-40degC from Part ANT1
+Removed Parameter Operating Temperature Min:-40degC from Part ANT2
+Removed Parameter Outer Contact Resistance:10mohm from Part ANT1
+Removed Parameter Outer Contact Resistance:10mohm from Part ANT2
+Removed Parameter Package Description:3-Pin Surface Mount Device, Body 2.6 x 2.6 mm from Part ANT1
+Removed Parameter Package Description:3-Pin Surface Mount Device, Body 2.6 x 2.6 mm from Part ANT2
+Removed Parameter Package Reference:U.FL-R-SMT(10) from Part ANT1
+Removed Parameter Package Reference:U.FL-R-SMT(10) from Part ANT2
+Removed Parameter Secondary Insulation Material:PBT from Part ANT1
+Removed Parameter Secondary Insulation Material:PBT from Part ANT2
+Removed Parameter SVHC:NoSVHC(18-Jun-2012) from Part ANT1
+Removed Parameter SVHC:NoSVHC(18-Jun-2012) from Part ANT2
+Removed Parameter Termination Method:Solder from Part ANT1
+Removed Parameter Termination Method:Solder from Part ANT2
+Removed Parameter Value:U.FL-R-SMT(01) from Part ANT1
+Removed Parameter Value:U.FL-R-SMT(01) from Part ANT2
+Removed Parameter Voltage Rating V AC:60V from Part ANT1
+Removed Parameter Voltage Rating V AC:60V from Part ANT2
+Removed Parameter VSWR:1.3 from Part ANT1
+Removed Parameter VSWR:1.3 from Part ANT2
+Change Value of Parameter Manufacturer 1 in Part ANT1 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part ANT1 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part ANT2 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part ANT2 Old=Manufacturer Part Number New=Manufacturer Part Number 1

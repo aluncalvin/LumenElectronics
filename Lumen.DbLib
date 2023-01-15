@@ -1,0 +1,67 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=X:\Lumen.MDB;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=X:\Lumen.MDB
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=C:\Caltroniks\LumenElectronics\LibrariesLumen
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=FIoT_BG96
+[Table1]
+SchemaName=
+TableName=FIoT_BG96
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=127|Library Ref0=127|Library Path0=180|Description0=728|Footprint Path0=178|Footprint Ref0=161|Comment0=131|Component Kind0=110|Component Type0=111|Designator0=127|Footprint0=161|Library Reference0=127|Lumen Part Number0=124|Manufacturer 10=159|Manufacturer Part Number 10=169|Pin Count0=74|Supplier 10=75|Supplier Part Number 10=162
+[FieldMap1]
+Options=FieldName=FIoT_BG96.Part Number|TableNameOnly=FIoT_BG96|FieldNameOnly=Part Number|FieldType=1|ParameterName=Part Number|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap2]
+Options=FieldName=FIoT_BG96.Library Ref|TableNameOnly=FIoT_BG96|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=FIoT_BG96.Library Path|TableNameOnly=FIoT_BG96|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=FIoT_BG96.Description|TableNameOnly=FIoT_BG96|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=FIoT_BG96.Footprint Path|TableNameOnly=FIoT_BG96|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=FIoT_BG96.Footprint Ref|TableNameOnly=FIoT_BG96|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=FIoT_BG96.Comment|TableNameOnly=FIoT_BG96|FieldNameOnly=Comment|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=FIoT_BG96.Component Kind|TableNameOnly=FIoT_BG96|FieldNameOnly=Component Kind|FieldType=1|ParameterName=Component Kind|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=FIoT_BG96.Component Type|TableNameOnly=FIoT_BG96|FieldNameOnly=Component Type|FieldType=1|ParameterName=Component Type|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=FIoT_BG96.Designator|TableNameOnly=FIoT_BG96|FieldNameOnly=Designator|FieldType=1|ParameterName=Designator|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=FIoT_BG96.Footprint|TableNameOnly=FIoT_BG96|FieldNameOnly=Footprint|FieldType=1|ParameterName=Footprint|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap12]
+Options=FieldName=FIoT_BG96.Library Reference|TableNameOnly=FIoT_BG96|FieldNameOnly=Library Reference|FieldType=1|ParameterName=Library Reference|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=FIoT_BG96.Lumen Part Number|TableNameOnly=FIoT_BG96|FieldNameOnly=Lumen Part Number|FieldType=0|ParameterName=Lumen Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=FIoT_BG96.Manufacturer 1|TableNameOnly=FIoT_BG96|FieldNameOnly=Manufacturer 1|FieldType=1|ParameterName=Manufacturer 1|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap15]
+Options=FieldName=FIoT_BG96.Manufacturer Part Number 1|TableNameOnly=FIoT_BG96|FieldNameOnly=Manufacturer Part Number 1|FieldType=1|ParameterName=Manufacturer Part Number 1|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap16]
+Options=FieldName=FIoT_BG96.Pin Count|TableNameOnly=FIoT_BG96|FieldNameOnly=Pin Count|FieldType=1|ParameterName=Pin Count|VisibleOnAdd=False|AddMode=1|RemoveMode=0|UpdateMode=1
+[FieldMap17]
+Options=FieldName=FIoT_BG96.Supplier 1|TableNameOnly=FIoT_BG96|FieldNameOnly=Supplier 1|FieldType=1|ParameterName=Supplier 1|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2
+[FieldMap18]
+Options=FieldName=FIoT_BG96.Supplier Part Number 1|TableNameOnly=FIoT_BG96|FieldNameOnly=Supplier Part Number 1|FieldType=1|ParameterName=Supplier Part Number 1|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2

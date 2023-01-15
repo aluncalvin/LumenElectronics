@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: T:\OEM Customers\Lumen\FIoT\FIoT_BG96\PCB\FIoT_BG96\FIoT_BG96.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3V8_BB Pin=J1-19
+Added Pin To Net: NetName=3V8_BB Pin=J1-21
+Change Net Name : Old Net Name=3V8_BB New Net Name=+3V8_BB
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(120, 63, 4)

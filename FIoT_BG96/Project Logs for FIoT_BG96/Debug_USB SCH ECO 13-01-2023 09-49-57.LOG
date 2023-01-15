@@ -1,0 +1,96 @@
+Removed Parameter Arrow Part Number: from Part J2
+Removed Parameter Arrow Price/Stock: from Part J2
+Removed Parameter Case Code (Imperial):0402 from Part R13
+Removed Parameter Case Code (Metric):1005 from Part R13
+Removed Parameter C Max (pF):0.9 from Part D3
+Removed Parameter C Max (pF):0.9 from Part D4
+Removed Parameter Composition:Thick Film from Part R13
+Removed Parameter Copyright:Copyright (C) 2022 Ultra Librarian. All rights reserved. from Part D5
+Removed Parameter Datasheet Link:https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/8a7b9a42a753a5cbaca4256ee093e59c.pdf from Part J2
+Removed Parameter Depth:0.5mm from Part R13
+Removed Parameter Features:Automotive AEC-Q200 from Part R13
+Removed Parameter Height:0.35mm from Part R13
+Removed Parameter IR Max (uA):1 from Part D3
+Removed Parameter IR Max (uA):1 from Part D4
+Removed Parameter IR Max (uA):2.5 from Part D6
+Removed Parameter IR Max (uA):2.5 from Part D7
+Removed Parameter IR Max (uA):2.5 from Part D8
+Removed Parameter Lead Free:Lead Free from Part R13
+Removed Parameter Length:1mm from Part R13
+Removed Parameter Manufacturer_Name:On Semiconductor from Part D3
+Removed Parameter Manufacturer_Name:On Semiconductor from Part D4
+Removed Parameter Manufacturer_Name:Tag Connect from Part J2
+Removed Parameter Manufacturer_Part_Number:ESD9L5.0ST5G from Part D3
+Removed Parameter Manufacturer_Part_Number:ESD9L5.0ST5G from Part D4
+Removed Parameter Manufacturer_Part_Number:SD12C.TCT from Part D5
+Removed Parameter Manufacturer_Part_Number:TC2050-IDC-430 from Part J2
+Removed Parameter Max Operating Temperature:155°C from Part R13
+Removed Parameter Max Power Dissipation:63mW from Part R13
+Removed Parameter MFG Name:ON Semiconductor from Part D6
+Removed Parameter MFG Name:ON Semiconductor from Part D7
+Removed Parameter MFG Name:ON Semiconductor from Part D8
+Removed Parameter MFG Name:onsemi from Part D3
+Removed Parameter MFG Name:onsemi from Part D4
+Removed Parameter MFG Name:Vishay Dale from Part R13
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R13
+Removed Parameter MFG Part Number:ESD9L5.0ST5G from Part D3
+Removed Parameter MFG Part Number:ESD9L5.0ST5G from Part D4
+Removed Parameter MFG Part Number:ESD9X3.3ST5G from Part D6
+Removed Parameter MFG Part Number:ESD9X3.3ST5G from Part D7
+Removed Parameter MFG Part Number:ESD9X3.3ST5G from Part D8
+Removed Parameter Mfr_Name:Semtech from Part D5
+Removed Parameter Military Standard:Not from Part R13
+Removed Parameter Min Operating Temperature:-55°C from Part R13
+Removed Parameter Mount:Surface Mount from Part R13
+Removed Parameter Mouser Part Number: from Part J2
+Removed Parameter Mouser Price/Stock: from Part J2
+Removed Parameter Mouser Testing Part Number: from Part J2
+Removed Parameter Mouser Testing Price/Stock: from Part J2
+Removed Parameter Number of Pins:2 from Part R13
+Removed Parameter Number of Terminations:2 from Part R13
+Removed Parameter Package Quantity:10 from Part R13
+Removed Parameter Packaging:Tape and Reel from Part R13
+Removed Parameter Part Number:ESD9L5.0ST5G from Part D3
+Removed Parameter Part Number:ESD9L5.0ST5G from Part D4
+Removed Parameter Part Number:ESD9X3.3ST5G from Part D6
+Removed Parameter Part Number:ESD9X3.3ST5G from Part D7
+Removed Parameter Part Number:ESD9X3.3ST5G from Part D8
+Removed Parameter Power Rating:63mW from Part R13
+Removed Parameter Radiation Hardening:No from Part R13
+Removed Parameter RefDes:RefDes from Part D5
+Removed Parameter Resistance:10k from Part R13
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R13
+Removed Parameter Termination:SMD/SMT from Part R13
+Removed Parameter Tolerance:1% from Part R13
+Removed Parameter Type:DEV from Part D5
+Removed Parameter V(BR) Min (V):5.4 from Part D3
+Removed Parameter V(BR) Min (V):5.4 from Part D4
+Removed Parameter V(BR) Min (V):5 from Part D6
+Removed Parameter V(BR) Min (V):5 from Part D7
+Removed Parameter V(BR) Min (V):5 from Part D8
+Removed Parameter Value:3V3 TVS from Part D6
+Removed Parameter Value:3V3 TVS from Part D7
+Removed Parameter Value:3V3 TVS from Part D8
+Removed Parameter Value:5V TVS from Part D3
+Removed Parameter Value:5V TVS from Part D4
+Removed Parameter Voltage Rating (DC):50V from Part R13
+Removed Parameter Voltage Rating:50V from Part R13
+Removed Parameter VRWM Max (V):3.3 from Part D6
+Removed Parameter VRWM Max (V):3.3 from Part D7
+Removed Parameter VRWM Max (V):3.3 from Part D8
+Removed Parameter VRWM Max (V):5 from Part D3
+Removed Parameter VRWM Max (V):5 from Part D4
+Removed Parameter Weight:2.3E-05oz from Part R13
+Removed Parameter Width:0.5mm from Part R13
+Change Value of Parameter Manufacturer 1 in Part D3 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part D3 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part D4 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part D4 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part D6 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part D6 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part D7 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part D7 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part D8 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part D8 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R13 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R13 Old=Manufacturer Part Number New=Manufacturer Part Number 1

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MCU_UART1_RX Pin=J1-1
+Removed Pin From Net: NetName=MCU_UART1_TX Pin=J1-3
+Removed Pin From Net: NetName=EXT_GNSS_UART_TX Pin=J1-5
+Removed Pin From Net: NetName=EXT_GNSS_UART_RX Pin=J1-7
+Removed Pin From Net: NetName=MCU_BG96_RESET Pin=J1-9
+Removed Pin From Net: NetName=MCU_BG96_PWRKEY Pin=J1-11
+Added Pin To Net: NetName=EXT_GNSS_UART_TX Pin=J1-1
+Added Pin To Net: NetName=EXT_GNSS_UART_RX Pin=J1-3
+Added Pin To Net: NetName=MCU_BG96_RESET Pin=J1-5
+Added Pin To Net: NetName=MCU_BG96_PWRKEY Pin=J1-7
+Added Pin To Net: NetName=MCU_UART1_RX Pin=J1-9
+Added Pin To Net: NetName=MCU_UART1_TX Pin=J1-11

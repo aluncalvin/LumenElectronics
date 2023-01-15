@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X06N
+Added Component: Designator=C?(CAPC1005X06N)
+Add component (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-CL05B104KB54PNCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "187-CL05B104KB54PNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF 50V"; VariantName = "[No Variations]"

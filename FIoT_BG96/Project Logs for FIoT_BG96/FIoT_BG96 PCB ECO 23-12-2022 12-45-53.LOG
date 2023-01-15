@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=+3V8 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=+3V8 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1005X55X25ML05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C10 Old Footprint=FP-C0402-BB-MFG New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C11 Old Footprint=FP-C0402-BB-MFG New Footprint=CAPC1005X55X25ML05T10
+Change Footprint: Footprint Not Found CAPPM3216X180N
+Change Component Footprint: Designator=C9 Old Footprint=FP-GRM32E-0_3-0_2-IPC_A New Footprint=CAPC1005X55X25ML05T10
+Change Component Comment : Designator=C10 Old Comment=100nF 16V X7R New Comment=GJM1555C1H330GB01D
+Change Component Comment : Designator=C11 Old Comment=C0402C104K8PACTU New Comment=CL05B104KB54PNC
+Change Component Comment : Designator=C12 Old Comment=C0402C104K8PACTU New Comment=T520A107M006ATE035
+Change Component Comment : Designator=C9 Old Comment=GRM32ER71A476ME15L New Comment=GRM1555C1H6R0CA01D
+Change Component Comment : Designator=C14 Old Comment=GRM1555C1H330GA01D New Comment=GJM1555C1H330GB01D
+Change component parameters: Designator = "C9" ("C9"); Footprint = "FP-GRM32E-0_3-0_2-IPC_A"; UniqueID = "\EAWLMAWS" ("\EAWLMAWS")
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8222-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM1555C1H6R0CA1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.6pF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "FP-C0402-BB-MFG"; UniqueID = "\HVMYAQEL" ("\HVMYAQEL")
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3784396"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GJM1555C1H330GB01DCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "81-GJM1555C1H330GB1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "FP-C0402-BB-MFG"; UniqueID = "\EXGWPSXU" ("\EXGWPSXU")
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-CL05B104KB54PNCCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "187-CL05B104KB54PNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "FP-C0402-BB-MFG"; UniqueID = "\CXYYWEWQ" ("\CXYYWEWQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "T520A107M006ATE035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t520a107m006ate035/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.kemet.com/component-edge/download/specsheet/T520A107M006ATE035.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "Not available with JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "Not available with JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T520A107M006ATE035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "T520A107M006ATE035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-T520A107M006AT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/T520A107M006ATE035?qs=QvRObDHRS18agZVs%252BDin8A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2855176"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "80-T520A107M006AT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF 6.3V Tant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC1005X55X25ML05T10"; UniqueID = "\DFXBHIZI" ("\DFXBHIZI")
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8222-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "81-GRM1555C1H6R0CA1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.6pF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC1005X55X25ML05T10"; UniqueID = "\VRGLPOQM" ("\VRGLPOQM")
+Change component parameters (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3784396"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "490-GJM1555C1H330GB01DCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "81-GJM1555C1H330GB1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1005X55X25ML05T10)
+Add component (AddParameter): Name = "JLC Footprint"; Value = "CAP-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C162118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C1005C0G1H060C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Name"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM1555C1H6R0CA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-CL05B104KB54PNCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "187-CL05B104KB54PNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF 50V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPM3216X180N
+Add Component: Footprint Not Found TC2050-IDC_Lumen
+Add Component: Footprint Not Found 5988A90107F
+Add Component: Footprint Not Found 5988A90107F
+Add Component: Footprint Not Found SON127P600X500X100-9N-D
+Add Component: Footprint Not Found SODFL1608X80N
+Add Component: Footprint Not Found SODFL1608X80N
+Add Component: Footprint Not Found SODFL1608X80N
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3V8 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3V8 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3V8 Pin=C11-2
+Added Pin To Net: NetName=+3V8 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3V8 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+3V8 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3V8 Pin=C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Add Pin To Net: Unknown Pin: Pin J3-10
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z2-1
+Add Pin To Net: Unknown Pin: Pin Z2-2
+Add Pin To Net: Unknown Pin: Pin Z3-1
+Add Pin To Net: Unknown Pin: Pin Z3-2

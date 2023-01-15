@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=BG96.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=Connectors.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=Debug_USB.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=Interface.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=MMF2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=Power.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=Status_Net_LEDs.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BG96.SchDoc|FileName=UART_Level_Shift.SchDoc|SheetNumber=2

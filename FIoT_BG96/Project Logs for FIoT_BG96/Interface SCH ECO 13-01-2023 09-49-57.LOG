@@ -1,0 +1,152 @@
+Removed Parameter Case Code (Imperial):0402 from Part R18
+Removed Parameter Case Code (Imperial):0402 from Part R19
+Removed Parameter Case Code (Metric):1005 from Part R18
+Removed Parameter Case Code (Metric):1005 from Part R19
+Removed Parameter Composition:Thick Film from Part R18
+Removed Parameter Composition:Thick Film from Part R19
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q7
+Removed Parameter Continuous Drain Current (ID):220mA from Part Q8
+Removed Parameter Current Rating:220mA from Part Q7
+Removed Parameter Current Rating:220mA from Part Q8
+Removed Parameter Depth:0.5mm from Part R18
+Removed Parameter Depth:0.5mm from Part R19
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q7
+Removed Parameter Drain to Source Breakdown Voltage:50V from Part Q8
+Removed Parameter Drain to Source Resistance:3.5R from Part Q7
+Removed Parameter Drain to Source Resistance:3.5R from Part Q8
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q7
+Removed Parameter Drain to Source Voltage (Vdss):50V from Part Q8
+Removed Parameter Dual Supply Voltage:50V from Part Q7
+Removed Parameter Dual Supply Voltage:50V from Part Q8
+Removed Parameter Element Configuration:Single from Part Q7
+Removed Parameter Element Configuration:Single from Part Q8
+Removed Parameter Fall Time:9ns from Part Q7
+Removed Parameter Fall Time:9ns from Part Q8
+Removed Parameter Features:Automotive AEC-Q200 from Part R18
+Removed Parameter Features:Automotive AEC-Q200 from Part R19
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q7
+Removed Parameter Gate to Source Voltage (Vgs):20V from Part Q8
+Removed Parameter Height:0.35mm from Part R18
+Removed Parameter Height:0.35mm from Part R19
+Removed Parameter Height:0.93mm from Part Q7
+Removed Parameter Height:0.93mm from Part Q8
+Removed Parameter Input Capacitance:27pF from Part Q7
+Removed Parameter Input Capacitance:27pF from Part Q8
+Removed Parameter Lead Free:Lead Free from Part Q7
+Removed Parameter Lead Free:Lead Free from Part Q8
+Removed Parameter Lead Free:Lead Free from Part R18
+Removed Parameter Lead Free:Lead Free from Part R19
+Removed Parameter Length:1mm from Part R18
+Removed Parameter Length:1mm from Part R19
+Removed Parameter Length:2.92mm from Part Q7
+Removed Parameter Length:2.92mm from Part Q8
+Removed Parameter Max Operating Temperature:150°C from Part Q7
+Removed Parameter Max Operating Temperature:150°C from Part Q8
+Removed Parameter Max Operating Temperature:155°C from Part R18
+Removed Parameter Max Operating Temperature:155°C from Part R19
+Removed Parameter Max Power Dissipation:63mW from Part R18
+Removed Parameter Max Power Dissipation:63mW from Part R19
+Removed Parameter Max Power Dissipation:360mW from Part Q7
+Removed Parameter Max Power Dissipation:360mW from Part Q8
+Removed Parameter MFG Name:Murata from Part C13
+Removed Parameter MFG Name:Murata from Part C14
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q7
+Removed Parameter MFG Name:ON Semiconductor / Fairchild from Part Q8
+Removed Parameter MFG Name:Vishay Dale from Part R18
+Removed Parameter MFG Name:Vishay Dale from Part R19
+Removed Parameter MFG Part Number:BSS138 from Part Q7
+Removed Parameter MFG Part Number:BSS138 from Part Q8
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R18
+Removed Parameter MFG Part Number:CRCW04021K00FKED from Part R19
+Removed Parameter MFG Part Number:GRM1555C1H6R0CA01D from Part C13
+Removed Parameter MFG Part Number:GRM1555C1H6R0CA01D from Part C14
+Removed Parameter Military Standard:Not from Part R18
+Removed Parameter Military Standard:Not from Part R19
+Removed Parameter Min Operating Temperature:-55°C from Part Q7
+Removed Parameter Min Operating Temperature:-55°C from Part Q8
+Removed Parameter Min Operating Temperature:-55°C from Part R18
+Removed Parameter Min Operating Temperature:-55°C from Part R19
+Removed Parameter Mount:Surface Mount from Part Q7
+Removed Parameter Mount:Surface Mount from Part Q8
+Removed Parameter Mount:Surface Mount from Part R18
+Removed Parameter Mount:Surface Mount from Part R19
+Removed Parameter Nominal Vgs:1.3V from Part Q7
+Removed Parameter Nominal Vgs:1.3V from Part Q8
+Removed Parameter Number of Elements:1 from Part Q7
+Removed Parameter Number of Elements:1 from Part Q8
+Removed Parameter Number of Pins:2 from Part R18
+Removed Parameter Number of Pins:2 from Part R19
+Removed Parameter Number of Pins:3 from Part Q7
+Removed Parameter Number of Pins:3 from Part Q8
+Removed Parameter Number of Terminations:2 from Part R18
+Removed Parameter Number of Terminations:2 from Part R19
+Removed Parameter On-State Resistance:6R from Part Q7
+Removed Parameter On-State Resistance:6R from Part Q8
+Removed Parameter Package Quantity:1 from Part Q7
+Removed Parameter Package Quantity:1 from Part Q8
+Removed Parameter Package Quantity:10 from Part R18
+Removed Parameter Package Quantity:10 from Part R19
+Removed Parameter Packaging:Tape and Reel from Part Q7
+Removed Parameter Packaging:Tape and Reel from Part Q8
+Removed Parameter Packaging:Tape and Reel from Part R18
+Removed Parameter Packaging:Tape and Reel from Part R19
+Removed Parameter Part Number:GRM1555C1H6R0CA01D from Part C13
+Removed Parameter Part Number:GRM1555C1H6R0CA01D from Part C14
+Removed Parameter Power Dissipation:360mW from Part Q7
+Removed Parameter Power Dissipation:360mW from Part Q8
+Removed Parameter Power Rating:63mW from Part R18
+Removed Parameter Power Rating:63mW from Part R19
+Removed Parameter Radiation Hardening:No from Part Q7
+Removed Parameter Radiation Hardening:No from Part Q8
+Removed Parameter Radiation Hardening:No from Part R18
+Removed Parameter Radiation Hardening:No from Part R19
+Removed Parameter Rds On Max:3.5R from Part Q7
+Removed Parameter Rds On Max:3.5R from Part Q8
+Removed Parameter REACH SVHC:No SVHC from Part Q7
+Removed Parameter REACH SVHC:No SVHC from Part Q8
+Removed Parameter Resistance:10k from Part R18
+Removed Parameter Resistance:10k from Part R19
+Removed Parameter Rise Time:9ns from Part Q7
+Removed Parameter Rise Time:9ns from Part Q8
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R18
+Removed Parameter Temperature Coefficient:100ppm/°C from Part R19
+Removed Parameter Termination:SMD/SMT from Part Q7
+Removed Parameter Termination:SMD/SMT from Part Q8
+Removed Parameter Termination:SMD/SMT from Part R18
+Removed Parameter Termination:SMD/SMT from Part R19
+Removed Parameter Threshold Voltage:1.3V from Part Q7
+Removed Parameter Threshold Voltage:1.3V from Part Q8
+Removed Parameter Tolerance:1% from Part R18
+Removed Parameter Tolerance:1% from Part R19
+Removed Parameter Turn-Off Delay Time:20ns from Part Q7
+Removed Parameter Turn-Off Delay Time:20ns from Part Q8
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q7
+Removed Parameter Turn-On Delay Time:2.5ns from Part Q8
+Removed Parameter Value:100nF 50V from Part C13
+Removed Parameter Value:100nF 50V from Part C14
+Removed Parameter Voltage Rating (DC):50V from Part Q7
+Removed Parameter Voltage Rating (DC):50V from Part Q8
+Removed Parameter Voltage Rating (DC):50V from Part R18
+Removed Parameter Voltage Rating (DC):50V from Part R19
+Removed Parameter Voltage Rating:50V from Part R18
+Removed Parameter Voltage Rating:50V from Part R19
+Removed Parameter Weight:0.03g from Part Q7
+Removed Parameter Weight:0.03g from Part Q8
+Removed Parameter Weight:2.3E-05oz from Part R18
+Removed Parameter Weight:2.3E-05oz from Part R19
+Removed Parameter Width:0.5mm from Part R18
+Removed Parameter Width:0.5mm from Part R19
+Removed Parameter Width:1.3mm from Part Q7
+Removed Parameter Width:1.3mm from Part Q8
+Change Value of Parameter Manufacturer 1 in Part C13 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part C13 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part C14 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part C14 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q7 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q7 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part Q8 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part Q8 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R18 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R18 Old=Manufacturer Part Number New=Manufacturer Part Number 1
+Change Value of Parameter Manufacturer 1 in Part R19 Old=Manufacturer New=Manufacturer 1
+Change Value of Parameter Manufacturer Part Number 1 in Part R19 Old=Manufacturer Part Number New=Manufacturer Part Number 1

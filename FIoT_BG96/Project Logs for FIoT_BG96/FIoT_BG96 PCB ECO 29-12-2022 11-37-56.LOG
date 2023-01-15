@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=BG96_STATUS Pin=IC1-20
+Added Pin To Net: NetName=BG96_NET Pin=IC1-21
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component LED1 LTST-C19HE1WT
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component LED2 LTST-C19HE1WT
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component Q9 BSS138K
+Added Member To Class: ClassName=Status_Net_LEDs Member=Component Q10 BSS138K
+Added Room: Name=Status_Net_LEDs

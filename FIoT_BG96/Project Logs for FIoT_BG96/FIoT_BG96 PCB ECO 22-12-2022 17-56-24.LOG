@@ -1,0 +1,117 @@
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-CC0402-MFG
+Add Component: Footprint Not Found FP-CC0402-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-GRM32E-0_3-0_2-IPC_A
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found CAPC1005X55X25ML05T10
+Add Component: Footprint Not Found CAPC1005X55X25ML05T10
+Add Component: Footprint Not Found CAPPM3216X180N
+Add Component: Footprint Not Found CAPPM3216X180N
+Add Component: Footprint Not Found CAPC1005X55X25ML05T10
+Add Component: Footprint Not Found CAPC1005X55X25ML05T10
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-CC0402-MFG
+Add Component: Footprint Not Found FP-CC0402-MFG
+Add Component: Footprint Not Found FP-CC0402-MFG
+Add Component: Footprint Not Found FP-C0402-BB-MFG
+Add Component: Footprint Not Found FP-CC0402-MFG
+Add Component: Footprint Not Found ONSC-SOD-923-2-514AA-01_V
+Add Component: Footprint Not Found PESD5V0S1BL315
+Add Component: Footprint Not Found BG96MA
+Add Component: Footprint Not Found 15Pin-Castellated
+Add Component: Footprint Not Found 15Pin-Castellated
+Add Component: Footprint Not Found TC2050-IDC_Lumen
+Add Component: Footprint Not Found 5988A90107F
+Add Component: Footprint Not Found 5988A90107F
+Add Component: Footprint Not Found HRS-U.FL-R-SMT(10)_V
+Add Component: Footprint Not Found HRS-U.FL-R-SMT(10)_V
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-318-08-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-MFG
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-MFG
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-MFG
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_B
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found FP-CRCW0402-e3-IPC_C
+Add Component: Footprint Not Found SON127P600X500X100-9N-D
+Add Component: Footprint Not Found SODFL1608X80N
+Add Component: Footprint Not Found SODFL1608X80N
+Add Component: Footprint Not Found SODFL1608X80N
+Added Net: Name=+3V3
+Added Net: Name=+3V8
+Added Net: Name=+5V_GSM_USB
+Added Net: Name=ANT_GNSS
+Added Net: Name=GND
+Added Net: Name=GSM_DBUG_RX
+Added Net: Name=GSM_DBUG_TX
+Added Net: Name=GSM_PWRKEY
+Added Net: Name=GSM_USB_BOOT
+Added Net: Name=MCU_GSM_RESET
+Added Net: Name=NetC1_1
+Added Net: Name=NetC2_1
+Added Net: Name=NetC3_1
+Added Net: Name=NetC4_1
+Added Net: Name=NetC5_1
+Added Net: Name=NetC6_1
+Added Net: Name=NetC6_2
+Added Net: Name=NetC16_1
+Added Net: Name=NetC25_1
+Added Net: Name=NetIC1_9
+Added Net: Name=NetIC1_10
+Added Net: Name=NetIC1_15
+Added Net: Name=NetIC1_17
+Added Net: Name=NetIC1_20
+Added Net: Name=NetIC1_21
+Added Net: Name=NetIC1_22
+Added Net: Name=NetIC1_23
+Added Net: Name=NetIC1_27
+Added Net: Name=NetIC1_28
+Added Net: Name=NetIC1_34
+Added Net: Name=NetIC1_35
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED2_1
+Added Net: Name=NetQ2_3
+Added Net: Name=NetQ3_2
+Added Net: Name=NetQ3_3
+Added Net: Name=NetQ4_3
+Added Net: Name=NetQ5_3
+Added Net: Name=NetQ7_1
+Added Net: Name=NetR4_1
+Added Net: Name=NetR7_1
+Added Net: Name=NetR7_2
+Added Net: Name=NetR15_1
+Added Net: Name=NetR16_1
+Added Net: Name=NetR17_1
+Added Net: Name=USIM_CLK
+Added Net: Name=USIM_DATA
+Added Net: Name=USIM_RST
+Added Net: Name=USIM_VDD
+Added Net: Name=VDD_EXT

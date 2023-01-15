@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=MCU_BG96_RESET Pin=J1-1
+Added Pin To Net: NetName=MCU_BG96_PWRKEY Pin=J1-3
+Added Pin To Net: NetName=MCU_UART1_RX Pin=J1-5
+Added Pin To Net: NetName=MCU_UART1_TX Pin=J1-7

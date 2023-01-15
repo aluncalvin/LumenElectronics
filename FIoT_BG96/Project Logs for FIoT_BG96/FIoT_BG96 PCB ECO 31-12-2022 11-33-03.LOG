@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3V8 Pin=D2-1
+Added Component: Designator=D13(CR_SD05_SEM-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SD12C.TCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Semtech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V8_BB Pin=D2-1
+Added Pin To Net: NetName=+3V8_RF Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2

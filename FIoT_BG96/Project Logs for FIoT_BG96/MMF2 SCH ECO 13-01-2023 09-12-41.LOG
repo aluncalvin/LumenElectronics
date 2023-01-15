@@ -1,0 +1,64 @@
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D9
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D10
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D11
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D12
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part D9
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part D10
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part D11
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part D12
+Removed Parameter ComponentLink2Description:Datasheet from Part D9
+Removed Parameter ComponentLink2Description:Datasheet from Part D10
+Removed Parameter ComponentLink2Description:Datasheet from Part D11
+Removed Parameter ComponentLink2Description:Datasheet from Part D12
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/ESD9L-D.PDF from Part D9
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/ESD9L-D.PDF from Part D10
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/ESD9L-D.PDF from Part D11
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/ESD9L-D.PDF from Part D12
+Removed Parameter ComponentLink3Description:Package Specification from Part D9
+Removed Parameter ComponentLink3Description:Package Specification from Part D10
+Removed Parameter ComponentLink3Description:Package Specification from Part D11
+Removed Parameter ComponentLink3Description:Package Specification from Part D12
+Removed Parameter ComponentLink3URL:http://www.onsemi.com/pub_link/Collateral/514AB.PDF from Part D9
+Removed Parameter ComponentLink3URL:http://www.onsemi.com/pub_link/Collateral/514AB.PDF from Part D10
+Removed Parameter ComponentLink3URL:http://www.onsemi.com/pub_link/Collateral/514AB.PDF from Part D11
+Removed Parameter ComponentLink3URL:http://www.onsemi.com/pub_link/Collateral/514AB.PDF from Part D12
+Removed Parameter DatasheetVersion:Rev. 5 from Part D9
+Removed Parameter DatasheetVersion:Rev. 5 from Part D10
+Removed Parameter DatasheetVersion:Rev. 5 from Part D11
+Removed Parameter DatasheetVersion:Rev. 5 from Part D12
+Removed Parameter Direction:Unidirectional from Part D9
+Removed Parameter Direction:Unidirectional from Part D10
+Removed Parameter Direction:Unidirectional from Part D11
+Removed Parameter Direction:Unidirectional from Part D12
+Removed Parameter Mounting Technology:Surface Mount from Part D9
+Removed Parameter Mounting Technology:Surface Mount from Part D10
+Removed Parameter Mounting Technology:Surface Mount from Part D11
+Removed Parameter Mounting Technology:Surface Mount from Part D12
+Removed Parameter Number of Lines:1 from Part D9
+Removed Parameter Number of Lines:1 from Part D10
+Removed Parameter Number of Lines:1 from Part D11
+Removed Parameter Number of Lines:1 from Part D12
+Removed Parameter PackageDescription:2-Pin SOD, Body 0.8 x 0.6 mm from Part D9
+Removed Parameter PackageDescription:2-Pin SOD, Body 0.8 x 0.6 mm from Part D10
+Removed Parameter PackageDescription:2-Pin SOD, Body 0.8 x 0.6 mm from Part D11
+Removed Parameter PackageDescription:2-Pin SOD, Body 0.8 x 0.6 mm from Part D12
+Removed Parameter PackageReference:SOD-923-2-514AB-01 from Part D9
+Removed Parameter PackageReference:SOD-923-2-514AB-01 from Part D10
+Removed Parameter PackageReference:SOD-923-2-514AB-01 from Part D11
+Removed Parameter PackageReference:SOD-923-2-514AB-01 from Part D12
+Removed Parameter PackageVersion:Rev. C, 03/2011 from Part D9
+Removed Parameter PackageVersion:Rev. C, 03/2011 from Part D10
+Removed Parameter PackageVersion:Rev. C, 03/2011 from Part D11
+Removed Parameter PackageVersion:Rev. C, 03/2011 from Part D12
+Removed Parameter Packing:Tape and Reel from Part D9
+Removed Parameter Packing:Tape and Reel from Part D10
+Removed Parameter Packing:Tape and Reel from Part D11
+Removed Parameter Packing:Tape and Reel from Part D12
+Removed Parameter PartNumber:ESD9L5.0ST5G from Part D9
+Removed Parameter PartNumber:ESD9L5.0ST5G from Part D10
+Removed Parameter PartNumber:ESD9L5.0ST5G from Part D11
+Removed Parameter PartNumber:ESD9L5.0ST5G from Part D12
+Added Parameter Part Number=ESD9L5.0ST5G to Part D9
+Added Parameter Part Number=ESD9L5.0ST5G to Part D10
+Added Parameter Part Number=ESD9L5.0ST5G to Part D11
+Added Parameter Part Number=ESD9L5.0ST5G to Part D12

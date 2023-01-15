@@ -1,0 +1,19 @@
+Added Component: Designator=J2(TC2050-IDC_Lumen)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/8a7b9a42a753a5cbaca4256ee093e59c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Tag Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC2050-IDC-430"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetD4_1 Pin=J2-2
+Added Pin To Net: NetName=NetD5_1 Pin=J2-3
+Added Pin To Net: NetName=NetD6_1 Pin=J2-4
+Added Pin To Net: NetName=VDD_EXT Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=NetD1_1 Pin=J2-8
+Added Pin To Net: NetName=NetD2_1 Pin=J2-9
+Added Pin To Net: NetName=5V_USB Pin=J2-10

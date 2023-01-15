@@ -1,0 +1,19 @@
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D1
+Removed Parameter ComponentLink1URL:http://www.onsemi.com/ from Part D1
+Removed Parameter ComponentLink2Description:Datasheet from Part D1
+Removed Parameter ComponentLink2URL:http://www.onsemi.cn/pub_link/Collateral/ESD9X3.3ST5G-D.PDF from Part D1
+Removed Parameter ComponentLink3Description:Package Specification from Part D1
+Removed Parameter ComponentLink3URL:http://www.onsemi.com/pub_link/Collateral/514AA.PDF from Part D1
+Removed Parameter DatasheetVersion:Rev. 7 from Part D1
+Removed Parameter Direction:Unidirectional from Part D1
+Removed Parameter Mounting Technology:Surface Mount from Part D1
+Removed Parameter Mounting Technology:THT from Part J1
+Removed Parameter Mounting Technology:THT from Part P1
+Removed Parameter Mounting Technology:THT from Part P2
+Removed Parameter Number of Lines:1 from Part D1
+Removed Parameter PackageDescription:2-Pin SOD, Body 0.8 x 0.6 mm from Part D1
+Removed Parameter PackageReference:SOD-923-2-514AA-01 from Part D1
+Removed Parameter PackageVersion:Rev. E, 03/2011 from Part D1
+Removed Parameter Packing:Tape and Reel from Part D1
+Removed Parameter PartNumber:ESD9X3.3ST5G from Part D1
+Added Parameter Part Number=ESD9X3.3ST5G to Part D1

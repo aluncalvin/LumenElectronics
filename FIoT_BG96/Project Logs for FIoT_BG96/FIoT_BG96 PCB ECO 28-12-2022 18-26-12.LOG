@@ -1,0 +1,49 @@
+Added Component: Designator=D?(ONSC-SOD-923-2-514AA-01_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/ESD9X3.3ST5G-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/514AA.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Unidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR Max (uA)"; Value = "2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Footprint"; Value = "SOD-923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part #"; Value = "C130456"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESD9X3.3ST5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG Part Number"; Value = "ESD9X3.3ST5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SOD, Body 0.8 x 0.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD-923-2-514AA-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. E, 03/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ESD9X3.3ST5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2627963"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "863-ESD9X3.3ST5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "C130456"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR) Min (V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3V3 TVS "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VRWM Max (V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TC2050-IDC_Lumen
+Added Pin To Net: NetName=+3V3 Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Fuchsia
+Added Pin To Net: NetName=5V_USB Pin=D3-1
+Added Pin To Net: NetName=5V_USB Pin=IC1-8
+Added Net: Name=5V_USB

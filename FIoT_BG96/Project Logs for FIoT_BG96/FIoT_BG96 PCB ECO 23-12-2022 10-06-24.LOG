@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=+3V8 Pin=J2-1
+Removed Pin From Net: NetName=+3V8 Pin=J2-2
+Removed Pin From Net: NetName=+3V8 Pin=J2-3
+Removed Pin From Net: NetName=+3V8 Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-15
+Add Component: Footprint Not Found CAPPM3216X180N
+Add Component: Footprint Not Found CAPPM3216X180N
+Add Component: Footprint Not Found PESD5V0S1BL315
+Add Component: Footprint Not Found TC2050-IDC_Lumen
+Add Component: Footprint Not Found 5988A90107F
+Add Component: Footprint Not Found 5988A90107F
+Add Component: Footprint Not Found SON127P600X500X100-9N-D
+Add Component: Footprint Not Found SODFL1608X80N
+Add Component: Footprint Not Found SODFL1608X80N
+Add Component: Footprint Not Found SODFL1608X80N
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Add Pin To Net: Unknown Pin: Pin J3-10
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin LED2-1
+Add Pin To Net: Unknown Pin: Pin LED2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z2-1
+Add Pin To Net: Unknown Pin: Pin Z2-2
+Add Pin To Net: Unknown Pin: Pin Z3-1
+Add Pin To Net: Unknown Pin: Pin Z3-2
